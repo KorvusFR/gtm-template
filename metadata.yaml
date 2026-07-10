@@ -2,5 +2,5 @@ homepage: "https://korvus.fr/"
 documentation: "https://korvus.fr/docs/installation/"
 versions:
   # Chaque version publiee est un commit de ce depot, en ordre antechronologique.
-  - sha: ae99d9ddcbe41adc80a8a93dd053e54ac5193234
+  - sha: 00890fc2052918a4975287424ebbdab9c54a2420
     changeNotes: Initial release. The Initialization tag loads the Korvus snippet from the CDN. The Transaction event tag reports order value and currency through window.korvusLayer, independently of tag load order.
