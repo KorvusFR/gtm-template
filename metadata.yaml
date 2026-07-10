@@ -1,0 +1,13 @@
+homepage: "https://korvus.fr/"
+documentation: "https://korvus.fr/docs/installation/"
+
+# Chaque version publiee est un commit du repo miroir public, liste ici en
+# ordre antechronologique (le plus recent en tete). Les SHA ne peuvent etre
+# renseignes qu'une fois le repo miroir cree et le template pousse dessus :
+# c'est la derniere etape avant la soumission a la Community Template Gallery.
+#
+# Exemple attendu :
+#   versions:
+#     - sha: <sha du commit de release>
+#       changeNotes: Initial release.
+versions: []
