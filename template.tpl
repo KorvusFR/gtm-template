@@ -1,4 +1,4 @@
-___TERMS_OF_SERVICE___
+﻿___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -348,3 +348,5 @@ evaluated are drained by the snippet once it boots.
 
 The purchase amount is consent-gated. Korvus drops it client-side, with no
 network call, whenever the visitor's consent status is not "granted".
+
+
