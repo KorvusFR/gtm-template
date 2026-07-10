@@ -1,13 +1,6 @@
 homepage: "https://korvus.fr/"
 documentation: "https://korvus.fr/docs/installation/"
-
-# Chaque version publiee est un commit du repo miroir public, liste ici en
-# ordre antechronologique (le plus recent en tete). Les SHA ne peuvent etre
-# renseignes qu'une fois le repo miroir cree et le template pousse dessus :
-# c'est la derniere etape avant la soumission a la Community Template Gallery.
-#
-# Exemple attendu :
-#   versions:
-#     - sha: <sha du commit de release>
-#       changeNotes: Initial release.
-versions: []
+versions:
+  # Chaque version publiee est un commit de ce depot, en ordre antechronologique.
+  - sha: ae99d9ddcbe41adc80a8a93dd053e54ac5193234
+    changeNotes: Initial release. The Initialization tag loads the Korvus snippet from the CDN. The Transaction event tag reports order value and currency through window.korvusLayer, independently of tag load order.
